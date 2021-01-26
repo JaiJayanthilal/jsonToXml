@@ -1,0 +1,16 @@
+{
+    "organization" : {
+        "name" : "RiskSense",
+        "type" : "Inc",
+        "building_number" : 4,
+        "floating" : -17.4,
+        "null_test": null,
+		"jai":{
+			"lastName":"jayanthilal"
+			},
+		"array_example2" : ["2red", "2green", "2blue", "2black"]	
+    },
+    "security_related" : true,
+    "array_example0" : ["red", "green", "blue", "black"],
+    "array_example1" : [1, "red", [{ "nested" : true}], { "obj" : true}]
+}

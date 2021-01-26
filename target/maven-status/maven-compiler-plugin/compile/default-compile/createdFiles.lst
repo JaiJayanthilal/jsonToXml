@@ -1,0 +1,4 @@
+org\converter\jsontoxml\ConverterFactory.class
+org\converter\jsontoxml\JSONTokenerTweaked.class
+org\converter\jsontoxml\JSONObjectLinkedHashMap.class
+org\converter\jsontoxml\XMLJSONConverterI.class

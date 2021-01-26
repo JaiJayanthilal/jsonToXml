@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<object>
+  <object name="organization">
+    <String name="name">RiskSense</String>
+    <String name="type">Inc</String>
+    <Integer name="building_number">4</Integer>
+    <BigDecimal name="floating">-17.4</BigDecimal>
+    <null name="null_test"/>
+    <object name="jai">
+      <String name="lastName">jayanthilal</String>
+    </object>
+    <array name="array_example2">
+      <String>2red</String>
+      <String>2green</String>
+      <String>2blue</String>
+      <String>2black</String>
+    </array>
+  </object>
+  <Boolean name="security_related">true</Boolean>
+  <array name="array_example0">
+    <String>red</String>
+    <String>green</String>
+    <String>blue</String>
+    <String>black</String>
+  </array>
+  <array name="array_example1">
+    <Integer>1</Integer>
+    <String>red</String>
+    <array>
+      <object>
+        <Boolean name="nested">true</Boolean>
+      </object>
+    </array>
+    <object>
+      <Boolean name="obj">true</Boolean>
+    </object>
+  </array>
+</object>
